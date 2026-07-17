@@ -1,0 +1,15 @@
+# Claude Code
+.claude/
+
+# Agentes
+.agents/
+
+# Cursor
+.cursor/
+
+# Windsurf
+.windsurf/
+
+# Arquivos locais
+.env
+.env.*
