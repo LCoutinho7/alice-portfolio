@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 683" width="1024" height="683" role="img">
+  <title>Front-end Development — código e interface em construção</title>
+  <defs>
+    <filter id="glow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <filter id="cardShadow3" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="26" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="683" fill="#10141c"/>
+  <ellipse cx="850" cy="50" rx="300" ry="300" fill="#2ee6a6" opacity="0.22" filter="url(#glow3)"/>
+  <ellipse cx="70" cy="610" rx="170" ry="170" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1.5"/>
+
+  <rect x="60" y="56" width="230" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+  <text x="175" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.5" fill="#b9f5dd">FRONT-END DEVELOPMENT</text>
+
+  <g filter="url(#cardShadow3)">
+    <rect x="470" y="150" width="470" height="470" rx="16" fill="#1e2430"/>
+  </g>
+
+  <circle cx="500" cy="180" r="6" fill="#ff6a6a"/>
+  <circle cx="522" cy="180" r="6" fill="#ffc94d"/>
+  <circle cx="544" cy="180" r="6" fill="#4fd18b"/>
+
+  <rect x="500" y="212" width="110" height="366" rx="8" fill="#161b24"/>
+  <rect x="514" y="228" width="70" height="8" rx="4" fill="#3a4353"/>
+  <rect x="514" y="248" width="82" height="8" rx="4" fill="#3a4353"/>
+  <rect x="530" y="268" width="60" height="8" rx="4" fill="#2ee6a6" opacity="0.6"/>
+  <rect x="514" y="288" width="82" height="8" rx="4" fill="#3a4353"/>
+  <rect x="530" y="308" width="50" height="8" rx="4" fill="#3a4353"/>
+  <rect x="530" y="328" width="66" height="8" rx="4" fill="#3a4353"/>
+
+  <rect x="626" y="212" width="284" height="230" rx="8" fill="#161b24"/>
+  <rect x="642" y="230" width="60" height="9" rx="4" fill="#7c5cff"/>
+  <rect x="706" y="230" width="90" height="9" rx="4" fill="#e8ebf0"/>
+  <rect x="642" y="254" width="40" height="9" rx="4" fill="#5da8ff"/>
+  <rect x="686" y="254" width="130" height="9" rx="4" fill="#e8ebf0"/>
+  <rect x="662" y="278" width="160" height="9" rx="4" fill="#2ee6a6"/>
+  <rect x="642" y="302" width="90" height="9" rx="4" fill="#6b7484"/>
+  <rect x="642" y="326" width="60" height="9" rx="4" fill="#7c5cff"/>
+  <rect x="706" y="326" width="110" height="9" rx="4" fill="#e8ebf0"/>
+  <rect x="662" y="350" width="140" height="9" rx="4" fill="#2ee6a6"/>
+  <rect x="642" y="374" width="200" height="9" rx="4" fill="#6b7484"/>
+  <rect x="642" y="398" width="70" height="9" rx="4" fill="#5da8ff"/>
+
+  <g filter="url(#cardShadow3)">
+    <rect x="626" y="464" width="284" height="130" rx="12" fill="#f7f9fb"/>
+  </g>
+  <rect x="646" y="484" width="150" height="12" rx="6" fill="#1e2430"/>
+  <rect x="646" y="506" width="200" height="8" rx="4" fill="#c3c9d1"/>
+  <rect x="646" y="522" width="170" height="8" rx="4" fill="#c3c9d1"/>
+  <rect x="646" y="556" width="90" height="26" rx="13" fill="#2ee6a6"/>
+
+  <rect x="500" y="464" width="110" height="130" rx="8" fill="#161b24"/>
+  <rect x="514" y="480" width="82" height="8" rx="4" fill="#3a4353"/>
+  <rect x="514" y="500" width="60" height="8" rx="4" fill="#2ee6a6" opacity="0.6"/>
+  <rect x="514" y="520" width="82" height="8" rx="4" fill="#3a4353"/>
+  <rect x="514" y="540" width="50" height="8" rx="4" fill="#5da8ff"/>
+</svg>

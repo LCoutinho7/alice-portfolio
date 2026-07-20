@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 683" width="1024" height="683" role="img">
+  <title>UI &amp; UX Design — pesquisa com usuários e wireframes</title>
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="26" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="683" fill="#1a1633"/>
+  <ellipse cx="860" cy="60" rx="300" ry="300" fill="#8b7bff" opacity="0.28" filter="url(#glow)"/>
+  <ellipse cx="70" cy="600" rx="170" ry="170" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1.5"/>
+
+  <rect x="60" y="56" width="150" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+  <text x="135" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.5" fill="#c9c3ff">UI &amp; UX DESIGN</text>
+
+  <g filter="url(#cardShadow)">
+    <rect x="470" y="150" width="470" height="470" rx="16" fill="#f8f9fc"/>
+  </g>
+
+  <circle cx="500" cy="180" r="6" fill="#ff6a6a"/>
+  <circle cx="522" cy="180" r="6" fill="#ffc94d"/>
+  <circle cx="544" cy="180" r="6" fill="#4fd18b"/>
+
+  <rect x="500" y="212" width="410" height="46" rx="8" fill="#e7e9f2"/>
+  <rect x="516" y="226" width="140" height="10" rx="5" fill="#b9bdd6"/>
+  <rect x="500" y="278" width="195" height="150" rx="10" fill="#e2ddff"/>
+  <circle cx="565" cy="330" r="26" fill="#a99bff"/>
+  <rect x="530" y="368" width="130" height="10" rx="5" fill="#c6bfff"/>
+
+  <rect x="712" y="278" width="198" height="24" rx="6" fill="#e7e9f2"/>
+  <rect x="712" y="312" width="198" height="10" rx="5" fill="#d3d6e6"/>
+  <rect x="712" y="332" width="160" height="10" rx="5" fill="#d3d6e6"/>
+  <rect x="712" y="352" width="180" height="10" rx="5" fill="#d3d6e6"/>
+  <rect x="712" y="386" width="120" height="34" rx="17" fill="#8b7bff"/>
+
+  <line x1="530" y1="470" x2="700" y2="470" stroke="#c6c2e0" stroke-width="1.5" stroke-dasharray="4 6"/>
+  <circle cx="530" cy="470" r="22" fill="#ffd7a8"/>
+  <circle cx="615" cy="470" r="22" fill="#a8d9ff"/>
+  <circle cx="700" cy="470" r="22" fill="#c7f2c2"/>
+  <rect x="505" y="502" width="410" height="12" rx="6" fill="#e2e4ef"/>
+  <rect x="505" y="524" width="330" height="12" rx="6" fill="#e2e4ef"/>
+
+  <g transform="translate(500 566) rotate(-6)">
+    <rect width="70" height="70" rx="6" fill="#ffe08a"/>
+  </g>
+  <g transform="translate(586 572) rotate(4)">
+    <rect width="70" height="70" rx="6" fill="#ffb3b3"/>
+  </g>
+  <g transform="translate(672 566) rotate(-3)">
+    <rect width="70" height="70" rx="6" fill="#b3e5c8"/>
+  </g>
+</svg>

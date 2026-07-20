@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 683" width="1024" height="683" role="img">
+  <title>Prototipação em Figma — telas conectadas por um fluxo de navegação</title>
+  <defs>
+    <filter id="glow4" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <filter id="cardShadow4" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="683" fill="#221a33"/>
+  <ellipse cx="850" cy="60" rx="300" ry="300" fill="#7b8cff" opacity="0.26" filter="url(#glow4)"/>
+  <ellipse cx="70" cy="600" rx="170" ry="170" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1.5"/>
+
+  <rect x="60" y="56" width="230" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+  <text x="175" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.5" fill="#d3d8ff">PROTOTIPAÇÃO EM FIGMA</text>
+
+  <path d="M 610 290 C 690 250, 700 250, 740 300" fill="none" stroke="#c9cdff" stroke-width="2" stroke-dasharray="3 7"/>
+  <path d="M 640 470 C 700 440, 720 430, 770 400" fill="none" stroke="#c9cdff" stroke-width="2" stroke-dasharray="3 7"/>
+  <circle cx="610" cy="290" r="5" fill="#7b8cff"/>
+  <circle cx="740" cy="300" r="5" fill="#7b8cff"/>
+  <circle cx="640" cy="470" r="5" fill="#7b8cff"/>
+  <circle cx="770" cy="400" r="5" fill="#7b8cff"/>
+
+  <g filter="url(#cardShadow4)">
+    <rect x="470" y="190" width="150" height="260" rx="12" fill="#f8f7fc"/>
+  </g>
+  <rect x="486" y="206" width="118" height="14" rx="4" fill="#e6e3f5"/>
+  <rect x="486" y="230" width="90" height="80" rx="8" fill="#e0dcff"/>
+  <rect x="486" y="322" width="118" height="8" rx="4" fill="#d6d2ec"/>
+  <rect x="486" y="338" width="90" height="8" rx="4" fill="#d6d2ec"/>
+  <rect x="486" y="366" width="118" height="24" rx="12" fill="#7b8cff"/>
+  <rect x="486" y="404" width="118" height="8" rx="4" fill="#d6d2ec"/>
+
+  <g filter="url(#cardShadow4)">
+    <rect x="700" y="250" width="150" height="260" rx="12" fill="#f8f7fc"/>
+  </g>
+  <rect x="716" y="266" width="118" height="40" rx="8" fill="#e0dcff"/>
+  <circle cx="736" cy="286" r="12" fill="#a99bff"/>
+  <rect x="756" y="280" width="60" height="8" rx="4" fill="#d6d2ec"/>
+  <rect x="716" y="322" width="118" height="8" rx="4" fill="#d6d2ec"/>
+  <rect x="716" y="338" width="90" height="8" rx="4" fill="#d6d2ec"/>
+  <rect x="716" y="354" width="118" height="8" rx="4" fill="#d6d2ec"/>
+  <rect x="716" y="392" width="118" height="24" rx="12" fill="#5da8ff"/>
+  <rect x="716" y="430" width="60" height="8" rx="4" fill="#d6d2ec"/>
+
+  <g filter="url(#cardShadow4)">
+    <rect x="600" y="410" width="150" height="200" rx="12" fill="#f8f7fc"/>
+  </g>
+  <circle cx="675" cy="470" r="30" fill="#c7f2c2"/>
+  <path d="M 662 470 l 10 10 l 18 -20" stroke="#2ee68f" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="622" y="516" width="106" height="8" rx="4" fill="#d6d2ec"/>
+  <rect x="622" y="532" width="70" height="8" rx="4" fill="#d6d2ec"/>
+  <rect x="622" y="560" width="106" height="22" rx="11" fill="#7b8cff"/>
+
+  <g transform="translate(560 560)">
+    <circle r="10" fill="#ffffff"/>
+    <path d="M -3 -3 L 6 6 M 6 -3 L -3 6" stroke="#221a33" stroke-width="1.4" opacity="0"/>
+    <path d="M -4 -4 L 6 2" stroke="#221a33" stroke-width="0" opacity="0"/>
+    <path d="M -1 -6 L -1 6 L 5 0 Z" fill="#221a33"/>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 683" width="1024" height="683" role="img">
+  <title>Consultoria de Produto — workshop de estratégia e priorização</title>
+  <defs>
+    <filter id="glow5" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <filter id="cardShadow5" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="26" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="683" fill="#221a14"/>
+  <ellipse cx="850" cy="60" rx="300" ry="300" fill="#ffb648" opacity="0.24" filter="url(#glow5)"/>
+  <ellipse cx="70" cy="600" rx="170" ry="170" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1.5"/>
+
+  <rect x="60" y="56" width="220" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+  <text x="170" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.5" fill="#ffe3bd">CONSULTORIA DE PRODUTO</text>
+
+  <g filter="url(#cardShadow5)">
+    <rect x="470" y="150" width="470" height="360" rx="16" fill="#faf7f2"/>
+  </g>
+
+  <line x1="633" y1="182" x2="633" y2="478" stroke="#e6ddd0" stroke-width="1.5"/>
+  <line x1="775" y1="182" x2="775" y2="478" stroke="#e6ddd0" stroke-width="1.5"/>
+  <rect x="500" y="182" width="110" height="14" rx="4" fill="#d8cdbb"/>
+  <rect x="655" y="182" width="90" height="14" rx="4" fill="#d8cdbb"/>
+  <rect x="800" y="182" width="90" height="14" rx="4" fill="#d8cdbb"/>
+
+  <g transform="translate(500 218) rotate(-4)">
+    <rect width="90" height="90" rx="6" fill="#ffd27a"/>
+  </g>
+  <g transform="translate(510 322) rotate(3)">
+    <rect width="90" height="90" rx="6" fill="#ffb0a0"/>
+  </g>
+
+  <g transform="translate(655 226) rotate(2)">
+    <rect width="90" height="90" rx="6" fill="#a8d9c8"/>
+  </g>
+  <g transform="translate(650 336) rotate(-3)">
+    <rect width="90" height="90" rx="6" fill="#ffd27a"/>
+  </g>
+  <g transform="translate(660 430) rotate(4)">
+    <rect width="90" height="70" rx="6" fill="#ffb0a0"/>
+  </g>
+
+  <g transform="translate(800 220) rotate(-2)">
+    <rect width="90" height="90" rx="6" fill="#a8c8ff"/>
+  </g>
+  <g transform="translate(805 326) rotate(3)">
+    <rect width="90" height="90" rx="6" fill="#a8d9c8"/>
+  </g>
+
+  <g filter="url(#cardShadow5)">
+    <rect x="470" y="540" width="470" height="80" rx="14" fill="#faf7f2"/>
+  </g>
+  <line x1="500" y1="580" x2="880" y2="580" stroke="#e6ddd0" stroke-width="3"/>
+  <circle cx="540" cy="580" r="9" fill="#ffb648"/>
+  <circle cx="650" cy="580" r="9" fill="#ffb648"/>
+  <circle cx="760" cy="580" r="9" fill="#e6ddd0"/>
+  <circle cx="860" cy="580" r="9" fill="#e6ddd0"/>
+
+  <g transform="translate(760 40)">
+    <polyline points="0,60 30,40 60,48 90,10" fill="none" stroke="#ffb648" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="90" cy="10" r="6" fill="#ffb648"/>
+  </g>
+</svg>
