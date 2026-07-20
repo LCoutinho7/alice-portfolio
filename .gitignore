@@ -16,3 +16,6 @@
 
 # Dependências (caso o servidor local seja instalado localmente)
 node_modules/
+
+# Vercel CLI
+.vercel/
