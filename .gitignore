@@ -13,3 +13,6 @@
 # Arquivos locais
 .env
 .env.*
+
+# Dependências (caso o servidor local seja instalado localmente)
+node_modules/

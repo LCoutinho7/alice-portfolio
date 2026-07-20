@@ -1,0 +1,12 @@
+{
+  "name": "alice-almeida-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Portfolio profissional de Alice Almeida (site estatico HTML/CSS/JS, sem build step).",
+  "scripts": {
+    "dev": "http-server . -p 3000 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "14.1.1"
+  }
+}
